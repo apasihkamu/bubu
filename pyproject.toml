@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "apasihkamu"
+version = "1.0.0"
+description = ""
+authors = ["apasihkamu"]
+
+[tool.poetry.dependencies]
+pyTelegramBotAPI = "^3.7.9"
+beautifulsoup4 = "^4.9.3"
